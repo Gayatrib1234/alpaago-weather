@@ -76,7 +76,7 @@ function WeatherApp() {
 
   return (<div className="home-body">
     <div className="App">
-      <h1 className="app-name">Yash's Weather App</h1>
+      <h1 className="app-name">Gayatri's Weather App</h1>
       <div className="search-bar">
         <input
           type="text"
